@@ -1,0 +1,8 @@
+.servicios {
+    border: 1px solid green;
+    background-color: aliceblue;
+}
+
+.servicios>* {
+    border: 1px solid teal;
+}
